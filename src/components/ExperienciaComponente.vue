@@ -2,11 +2,11 @@
 import icono1 from '/src/assets/chefman.svg';
 import icono2 from '/src/assets/bike.svg';
 import { ref } from 'vue';
-const titulo = 'Desempledo :)';
+const titulo = 'Desempleado';
 const fecha = 'Desde Enero 2024';
 const experiencias = ref([
     { id: 1, src: icono1, parrafo: 'Fui ayudante de cocina por un mes.' },
-    { id: 2, src: icono2, parrafo: 'Tambien prove ser delivery ' },
+    { id: 2, src: icono2, parrafo: 'También probé ser delivery ' },
 ]);
 </script>
 

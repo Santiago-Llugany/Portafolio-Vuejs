@@ -13,7 +13,7 @@ misProyectos.value = ([
         id: 1,
         src: proyecto1,
         titulo: "Buscaminas Terminal",
-        descripcion: "Es un buscaminas basico que se juegadesde consola hecho en PSeInt",
+        descripcion: "Es un buscaminas básico que se juega desde consola hecho en PSeInt",
         projectoLink: "https://www.google.com.ar",
         githubLink: "https://github.com/usuario/proyecto"
     },

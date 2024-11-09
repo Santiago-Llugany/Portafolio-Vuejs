@@ -19,33 +19,33 @@ const habilidades = ref([
     {// Se crea un objeto con id, nombre y habilidades
         id: 1, nombre: 'Lenguajes de Programación', habilidades: [
             //Se crea un objeto con id, nombre, nivel e icono
-            { id: 1, nombre: 'JavaScript', nivel: 'Basico', icono: img1 },
-            { id: 2, nombre: 'Python', nivel: 'Basico', icono: img2 },
-            { id: 3, nombre: 'HTML/CSS', nivel: 'Basico', icono: img3 },
-            { id: 4, nombre: 'Java', nivel: 'Basico', icono: img4 },
-            { id: 5, nombre: 'SQL', nivel: 'Basico', icono: img5 }
+            { id: 1, nombre: 'JavaScript', nivel: 'Básico', icono: img1 },
+            { id: 2, nombre: 'Python', nivel: 'Básico', icono: img2 },
+            { id: 3, nombre: 'HTML/CSS', nivel: 'Básico', icono: img3 },
+            { id: 4, nombre: 'Java', nivel: 'Básico', icono: img4 },
+            { id: 5, nombre: 'SQL', nivel: 'Básico', icono: img5 }
         ]
     },
     {
         id: 2, nombre: 'Frameworks y Librerías', habilidades: [
-            { id: 1, nombre: 'Vue.js', nivel: 'Basico', icono: img6 },
+            { id: 1, nombre: 'Vue.js', nivel: 'Básico', icono: img6 },
         ]
     },
     {
         id: 3, nombre: 'Herramientas y Software', habilidades: [
-            { id: 1, nombre: 'Git', nivel: 'Basico', icono: img7 },
+            { id: 1, nombre: 'Git', nivel: 'Básico', icono: img7 },
             { id: 2, nombre: 'Visual Studio Code', nivel: 'Intermedio', icono: img8 }
         ]
     },
     {
         id: 4, nombre: 'Bases de Datos', habilidades: [
-            { id: 1, nombre: 'MySQL', nivel: 'Basico', icono: img9 },
+            { id: 1, nombre: 'MySQL', nivel: 'Básico', icono: img9 },
         ]
     },
     {
         id: 5, nombre: 'Idiomas', habilidades: [
             { id: 1, nombre: 'Español', nivel: 'Nativo', icono: img10 },
-            { id: 2, nombre: 'Inglés', nivel: 'Basico', icono: img11 }
+            { id: 2, nombre: 'Inglés', nivel: 'Básico', icono: img11 }
         ]
     }
 ]);

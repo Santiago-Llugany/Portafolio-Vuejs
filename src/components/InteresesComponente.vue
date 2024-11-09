@@ -3,9 +3,9 @@ import { ref } from 'vue';
 import FondoLava from './FondoLava.vue';
 //Este es un arreglo con ref para que se pueda reactivar el cambio de los intereses
 const intereses = ref([
-    'Me gusta inventar y diseñar cosas varias ademas de la programacion, podria decirce que soy muy creativo',
-    'El basket es mi deporte favorito, aunque tambien muy regularmente hago ciclismo',
-    'Me interesa muchos la filosofia y la psicologia, el saber el porque de todo y porque de nada',
+    'Me gusta inventar y diseñar cosas varias además de la programación, podría decirse que soy muy creativo',
+    'El básquet es mi deporte favorito, aunque también muy regularmente hago ciclismo',
+    'Me interesa muchos la filosofía y la psicología, el saber el porqué de todo y porque de nada',
 ]);
 </script>
 

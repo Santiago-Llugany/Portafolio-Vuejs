@@ -33,7 +33,7 @@ const navegacion= ref([
 }
 .navbar-menu {
   display: flex;
-  justify-content: flex-end;
+  justify-content: center;
 }
 .nav-list{
   list-style: none;

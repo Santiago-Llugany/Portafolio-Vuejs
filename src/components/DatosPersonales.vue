@@ -5,13 +5,13 @@ import github from '/src/assets/github_icon.svg';
 import cv from '/src/assets/cv_resume_icon.svg';
 
 const title = 'Santiago Llugany';
-const descripcion = 'Estudiante de Programacion en la UTN San Rafael';
+const descripcion = 'Estudiante de Programación en la UTN San Rafael';
 const residencia = 'Genereal Alvear, Mendoza, Argentina';
-const presentacion = 'Buenas recien estoy cursando mi carrera para aprender a programar pero con mucho entusiasmo';
+const presentacion = 'Buenas recién estoy cursando mi carrera para aprender a programar pero con mucho entusiasmo';
 const redesSociales = [
   { id: 1, name: 'linkedin', src: linkedin, url: 'https://www.linkedin.com/in/santiago-llugany-47a085291/' },
   { id: 2, name: 'Instagram', src: instagram, url: 'https://www.instagram.com/lluga._.a/' },
-  { id: 3, name: 'github', src: github, url: '' },
+  { id: 3, name: 'github', src: github, url: 'https://github.com/Santiago-Llugany' },
   { id: 4, name: 'curriculum', src: cv, url: '' },
 ];
 const telefono = '1234567899';
