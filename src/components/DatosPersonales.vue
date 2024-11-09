@@ -14,7 +14,7 @@ const redesSociales = [
   { id: 3, name: 'github', src: github, url: 'https://github.com/Santiago-Llugany' },
   { id: 4, name: 'curriculum', src: cv, url: '' },
 ];
-const telefono = '1234567899';
+const telefono = '+54 9 2625 52-1491';
 </script>
 
 <template>
