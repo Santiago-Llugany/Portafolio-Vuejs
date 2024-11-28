@@ -40,7 +40,7 @@ const navegacion= ref([
 }
 a {
   border: 1.5px solid ;
-  border-color: #c833dc;
+  border-color: #8b4513;
   border-radius: 5px;
   /* Elimina la subrayado de los enlaces y elementos con clase "green" */
   text-decoration: none;
@@ -53,7 +53,7 @@ a {
 
 a:hover {
     /* Cambia el color de fondo al pasar el mouse sobre un enlace */
-    background-color: hsl(275, 60%, 35%);
+    background-color: #f5f5dc;
 }
 
 @media (max-width: 768px) {

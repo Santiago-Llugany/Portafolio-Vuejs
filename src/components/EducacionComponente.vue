@@ -2,7 +2,7 @@
 import { ref } from 'vue';
 
 const timelineData = ref([
-  { title: 'Escuela secundaria completa', date: '2018-2023', description: 'Rio Atuel 4-202' },
+  { title: 'Escuela secundaria completa', date: '2019-2023', description: 'Rio Atuel 4-202' },
   { title: 'Tecnicatura en programación', date: 'En proceso', description: 'UTN San Rafael' },
 ]);
 </script>

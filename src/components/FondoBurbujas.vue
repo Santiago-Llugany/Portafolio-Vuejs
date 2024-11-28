@@ -28,7 +28,7 @@
     width: 100%;
     height: 100%;
     z-index: -1;
-    background: linear-gradient(to left, #8f94fb, #4e54c8);
+    background: #f5deb3;
     overflow: hidden;
   }
   
@@ -47,7 +47,7 @@
     list-style: none;
     width: 20px;
     height: 20px;
-    background: rgba(255, 255, 255, 0.2);
+    background: rgba(139, 69, 19, 0.5);
     animation: animate 25s linear infinite;
     bottom: -150px;
   }
