@@ -87,11 +87,7 @@ misProyectos.value = ([
     /* Centra los elementos hijos horizontalmente */
     justify-content: center;
     /* Aplica un fondo con un degradado de colores */
-    background: linear-gradient(-45deg, #6a1d68, #6a036e, #da6ed8, #e2b6d0);
-    /* Ajusta el tamaño del fondo para que cubra el área completa */
-    background-size: 400% 400%;
-    /* Aplica una animación al fondo que dura 15 segundos, tiene una transición suave y se repite infinitamente */
-    animation: gradient 12s ease infinite;
+    background: var(--vt-c-indigo);
     border-radius: 15px
 }
 
